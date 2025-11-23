@@ -2,6 +2,6 @@
 
 - ⚙️ [terraform-provider-dannecloud](https://github.com/dannecloud/terraform-provider-dannecloud) is our official Terraform Provider for managing DanneCloud's resources
 
-## How to engage with DanneCloud
+## Engaging with DanneCloud
 
 - 🏡 [Visit our website](https://danne.cloud)
