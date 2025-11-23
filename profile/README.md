@@ -6,4 +6,4 @@ DanneCloud - Cloud Platform for the DevSecOps journey.
 
 ## How to engage with DanneCloud
 
-- 🏡 [Visit our Website](https://danne.cloud)
+- 🏡 [Visit our website](https://danne.cloud)
