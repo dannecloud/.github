@@ -4,4 +4,5 @@
 
 ## Repositories for DanneCloud
 
-* [terraform-provider-dannecloud](https://github.com/dannecloud/terraform-provider-dannecloud) is our official Terraform Provider for managing DanneCloud's resources
+* [dannecloud-cli-utility](https://github.com/dannecloud/dannecloud-cli-utility)
+* [terraform-provider-dannecloud](https://github.com/dannecloud/terraform-provider-dannecloud)
