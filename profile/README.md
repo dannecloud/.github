@@ -4,5 +4,5 @@
 
 ## Repositories for DanneCloud
 
-* [dannecloud-cli-utility](https://github.com/dannecloud/dannecloud-cli-utility)
+* [dannecloud-console-utility](https://github.com/dannecloud/dannecloud-console-utility)
 * [terraform-provider-dannecloud](https://github.com/dannecloud/terraform-provider-dannecloud)
